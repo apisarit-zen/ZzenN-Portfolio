@@ -3,7 +3,7 @@
 # Hi, I'm Apisarit 👋
 
 ## About Me
-Final-year Economics student at Chulalongkorn University, graduating in 2025. I'm transitioning into data analytics, combining an economics research background (panel data, econometrics) with hands-on SQL, Excel, and Power BI skills. I enjoy turning raw data into clear, decision-ready insights.
+Final-year Economics student at Chulalongkorn University, graduating in 2026. I'm transitioning into data analytics, combining an economics research background (panel data, econometrics) with hands-on SQL, Excel, and Power BI skills. I enjoy turning raw data into clear, decision-ready insights.
 
 📄 **[My CV](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/CV%20Apisarit%20T.pdf)**  
 📧 **[Email]** apisarit.tho@gmail.com  
