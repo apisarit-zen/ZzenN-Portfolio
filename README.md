@@ -11,7 +11,7 @@ Final-year Economics (EBA) student at Chulalongkorn University, graduating in 20
 ---
 
 ## Table of Contents
-- [About](#about-me)
+- [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - [1. Balaji Fast Food Sales Analysis (SQL)](#1-balaji-fast-food-sales-analysis-sql)
   - [2. FDI & Environmental Quality: Evidence from ASEAN-6 (Research)](#2-fdi--environmental-quality-evidence-from-asean-6-research)
