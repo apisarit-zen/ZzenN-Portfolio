@@ -65,7 +65,7 @@ With customer-level and cost data, this analysis could be extended into cohort/r
 - **SQL Server (T-SQL):** data validation, aggregation, business analysis
 - **Window functions:** `ROW_NUMBER()`, `RANK()`, `LAG()`, running `SUM() OVER()`
 - **CTEs** for multi-step logic (growth rates, running totals, ABC classification)
-- 
+
 *Data source: Balaji Fast Food Sales dataset (Kaggle).*
 
 
