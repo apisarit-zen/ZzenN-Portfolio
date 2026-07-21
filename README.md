@@ -13,9 +13,9 @@ Final-year Economics (EBA) student at Chulalongkorn University, graduating in 20
 ## Table of Contents
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
-  - [1. Balaji Fast Food Sales Analysis (SQL)](#1-balaji-fast-food-sales-analysis)
-  - [2. FDI & Environmental Quality: Evidence from ASEAN-6 (Research)](#2-fdi--environmental-quality-evidence-from-asean-6-acadamic-research)
-  - [3. Coffee Sales Dashboard (Excel)](#3-coffee-sales-dashboard)
+  - [1. Balaji Fast Food Sales Analysis](#1-balaji-fast-food-sales-analysis)
+  - [2. FDI & Environmental Quality: Evidence from ASEAN-6](#2-fdi--environmental-quality-evidence-from-asean-6-acadamic-research)
+  - [3. Coffee Sales Dashboard](#3-coffee-sales-dashboard)
 - [Certifications](#certifications)
 
 ---
