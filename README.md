@@ -21,7 +21,7 @@ This project analyzes one year of point-of-sale transactions from a fast food bu
 
 The raw dataset (1,000 rows) was first validated in SQL: checked for duplicate transactions (`ROW_NUMBER()` over all business columns), missing values (`transaction_type` nulls handled with `COALESCE`), and logical consistency (`transaction_amount = item_price × quantity`, no rows with zero/negative values). No data quality issues were found, so the full dataset was used as-is.
 
-Analysis was performed using aggregations, CTEs, and window functions (`RANK()`, `LAG()`, running `SUM() OVER()`) to compute revenue breakdowns by product, category, time period, and a Pareto (ABC) inventory classification. The individual queries are available in [`Fast Food Analysis.sql`](./Fast%20Food%20Analysis.sql).
+Analysis was performed using aggregations, CTEs, and window functions (`RANK()`, `LAG()`, running `SUM() OVER()`) to compute revenue breakdowns by product, category, time period, and a Pareto (ABC) inventory classification. The individual queries are available in [`Fast Food .sql`](./Fast%20Food%20*.sql).
 
 ## 4. Key Findings
 
@@ -67,4 +67,4 @@ With customer-level and cost data, this analysis could be extended into cohort/r
 - **CTEs** for multi-step logic (growth rates, running totals, ABC classification)
 
 ---
-*Data source: Balaji Fast Food Sales dataset (Kaggle). Analysis, SQL scripts, and write-up by the author.*
+*Data source: Balaji Fast Food Sales dataset (Kaggle).*
