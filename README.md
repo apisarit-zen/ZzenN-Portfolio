@@ -1,4 +1,4 @@
-# Zen's-Portfolio
+# Zen's Portfolio
 
 # Hi, I'm Apisarit 👋
 
@@ -22,25 +22,28 @@ Final-year Economics (EBA) student at Chulalongkorn University, graduating in 20
 
 ## Portfolio Projects
 
-### 1. Balaji Fast Food Sales Analysis (SQL)
+### 1. Balaji Fast Food Sales Analysis
 End-to-end SQL analysis of 1,000 fast food transactions — data cleaning, validation, and business analysis using window functions and CTEs, framed as research questions rather than a query dump.
 **Skills:** T-SQL, `ROW_NUMBER()`, `RANK()`, `LAG()`, CTEs, ABC/Pareto analysis
-🔗 [View project](#) *(link to repo)*
 
-### 2. FDI & Environmental Quality: Evidence from ASEAN-6 (Research)
+🔗 [View project](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/Balaji%20Fast%20Food.md)
+
+### 2. FDI & Environmental Quality: Evidence from ASEAN-6 (Academic Research)
 Panel data study (2002–2023, 6 countries) testing whether foreign direct investment helps or harms environmental quality, and how institutional quality changes the answer.
-**Skills:** Stata, Fixed Effects, Driscoll-Kraay SE, marginal effects, panel econometrics
-🔗 [View project](#) *(link to repo)*
+**Skills:** Excel(cleaning Data), Stata, Fixed Effects, Driscoll-Kraay SE, marginal effects, panel econometrics
 
-### 3. Coffee Sales Dashboard (Excel)
+🔗 [View project](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/FDI%20CO2%20in%20ASEAN6.md)
+
+### 3. Coffee Sales Dashboard 
 Interactive sales dashboard built from 3 relational tables (orders, customers, products), with pivot charts and slicers for exploring sales by coffee type, country, and top customers.
 **Skills:** Excel, VLOOKUP/XLOOKUP, PivotTables, slicers, dashboard design
-🔗 [View project](#) *(link to repo/file)*
 
+🔗 [View project]
 ---
 
 ## Certifications
 - 📜 [DataCamp — *(track name)*](#) *(add verify link)*
+
 
 
 
