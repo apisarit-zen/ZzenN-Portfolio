@@ -15,7 +15,7 @@ Final-year Economics student at Chulalongkorn University, graduating in 2026. I'
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - [1. Balaji Fast Food Sales Analysis](#1-balaji-fast-food-sales-analysis)
-  - [2. FDI & Environmental Quality: Evidence from ASEAN-6](#2-fdi--environmental-quality-evidence-from-asean-6-acadamic-research)
+  - [2. FDI & Environmental Quality: Evidence from ASEAN-6](#2-fdi--environmental-quality-evidence-from-asean-6)
   - [3. Coffee Sales Dashboard](#3-coffee-sales-dashboard)
 - [Certifications](#certifications)
 
@@ -29,7 +29,7 @@ End-to-end SQL analysis of 1,000 fast food transactions — data cleaning, valid
 
 🔗 [View project](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/Balaji%20Fast%20Food.md)
 
-### 2. FDI & Environmental Quality: Evidence from ASEAN-6 (Academic Research)
+### 2. FDI & Environmental Quality: Evidence from ASEAN-6
 Panel data study (2002–2023, 6 countries) testing whether foreign direct investment helps or harms environmental quality, and how institutional quality changes the answer.
 **Skills:** Excel(cleaning Data), Stata, Fixed Effects, Driscoll-Kraay SE, marginal effects, panel econometrics
 
