@@ -72,7 +72,7 @@ With customer-level and cost data, this analysis could be extended into cohort/r
 
 # FDI & Environmental Quality: Evidence from ASEAN-6
 
-**Type:** Applied Econometrics / Panel Data Research | **Data:** 6 countries × 22 years (2002–2023), 132 observations | **Tools:** Stata (Fixed Effects, Driscoll-Kraay SE)
+**Type:** Applied Econometrics / Panel Data Research | **Data:** 6 countries × 22 years (2002–2023), 132 observations | **Tools:** Excel and Stata (Fixed Effects, Driscoll-Kraay SE)
 
 ## 1. Background
 
