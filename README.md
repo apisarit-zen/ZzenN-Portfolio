@@ -65,8 +65,7 @@ With customer-level and cost data, this analysis could be extended into cohort/r
 - **SQL Server (T-SQL):** data validation, aggregation, business analysis
 - **Window functions:** `ROW_NUMBER()`, `RANK()`, `LAG()`, running `SUM() OVER()`
 - **CTEs** for multi-step logic (growth rates, running totals, ABC classification)
-
----
+- 
 *Data source: Balaji Fast Food Sales dataset (Kaggle).*
 
 
@@ -124,7 +123,6 @@ Once *Voice and Accountability* (VA) is added as a conditioning variable, FDI be
 - **Stata:** panel data econometrics, Fixed Effects, Driscoll-Kraay standard errors, marginal effects (`nlcom`)
 - **Data sources:** World Bank World Development Indicators, Worldwide Governance Indicators
 
----
 📄 [Read the full paper (PDF)](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/SR-6540140629%23P7Y.pdf) — includes full literature review, descriptive statistics, correlation/VIF diagnostics, and complete regression tables.
 
 *Research conducted as part of ECON 2900412 Research Paper, Faculty of Economics, Chulalongkorn University.*
