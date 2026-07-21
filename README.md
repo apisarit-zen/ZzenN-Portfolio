@@ -6,7 +6,7 @@
 Final-year Economics student at Chulalongkorn University, graduating in 2025. I'm transitioning into data analytics, combining an economics research background (panel data, econometrics) with hands-on SQL, Excel, and Power BI skills. I enjoy turning raw data into clear, decision-ready insights.
 
 📄 **[My CV](#)** *(replace with your CV link — Google Drive, PDF in repo, or LinkedIn)*
-📧 **[Email](#)** &nbsp;|&nbsp; 🔗 **[LinkedIn](#)**
+📧 **[Email](apisarit.tho@gmail.com)** &nbsp;|&nbsp; 🔗 **[LinkedIn](#)**
 
 ---
 
