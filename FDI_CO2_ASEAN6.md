@@ -53,6 +53,6 @@ Once *Voice and Accountability* (VA) is added as a conditioning variable, FDI be
 - **Data sources:** World Bank World Development Indicators, Worldwide Governance Indicators
 
 ---
-📄 [Read the full paper (PDF)]([./SR-6540140629_P7Y.pdf](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/SR-6540140629%23P7Y.pdf)) — includes full literature review, descriptive statistics, correlation/VIF diagnostics, and complete regression tables.
+📄 [Read the full paper (PDF)](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/SR-6540140629%23P7Y.pdf) — includes full literature review, descriptive statistics, correlation/VIF diagnostics, and complete regression tables.
 
 *Research conducted as part of ECON 2900412 Research Paper, Faculty of Economics, Chulalongkorn University.*
