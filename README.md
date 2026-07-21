@@ -1,4 +1,46 @@
 # Zen's-Portfolio
 
+# Hi, I'm Apisarit 👋
+
+## About Me
+Final-year Economics (EBA) student at Chulalongkorn University, graduating in 2025. I'm transitioning into data analytics, combining an economics research background (panel data, econometrics) with hands-on SQL, Excel, and Power BI skills. I enjoy turning raw data into clear, decision-ready insights.
+
+📄 **[My CV](#)** *(replace with your CV link — Google Drive, PDF in repo, or LinkedIn)*
+📧 **[Email](#)** &nbsp;|&nbsp; 🔗 **[LinkedIn](#)**
+
+---
+
+## Table of Contents
+- [About](#about-me)
+- [Portfolio Projects](#portfolio-projects)
+  - [1. Balaji Fast Food Sales Analysis (SQL)](#1-balaji-fast-food-sales-analysis-sql)
+  - [2. FDI & Environmental Quality: Evidence from ASEAN-6 (Research)](#2-fdi--environmental-quality-evidence-from-asean-6-research)
+  - [3. Coffee Sales Dashboard (Excel)](#3-coffee-sales-dashboard-excel)
+- [Certifications](#certifications)
+
+---
+
+## Portfolio Projects
+
+### 1. Balaji Fast Food Sales Analysis (SQL)
+End-to-end SQL analysis of 1,000 fast food transactions — data cleaning, validation, and business analysis using window functions and CTEs, framed as research questions rather than a query dump.
+**Skills:** T-SQL, `ROW_NUMBER()`, `RANK()`, `LAG()`, CTEs, ABC/Pareto analysis
+🔗 [View project](#) *(link to repo)*
+
+### 2. FDI & Environmental Quality: Evidence from ASEAN-6 (Research)
+Panel data study (2002–2023, 6 countries) testing whether foreign direct investment helps or harms environmental quality, and how institutional quality changes the answer.
+**Skills:** Stata, Fixed Effects, Driscoll-Kraay SE, marginal effects, panel econometrics
+🔗 [View project](#) *(link to repo)*
+
+### 3. Coffee Sales Dashboard (Excel)
+Interactive sales dashboard built from 3 relational tables (orders, customers, products), with pivot charts and slicers for exploring sales by coffee type, country, and top customers.
+**Skills:** Excel, VLOOKUP/XLOOKUP, PivotTables, slicers, dashboard design
+🔗 [View project](#) *(link to repo/file)*
+
+---
+
+## Certifications
+- 📜 [DataCamp — *(track name)*](#) *(add verify link)*
+
 
 
