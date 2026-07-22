@@ -1,4 +1,4 @@
-# ☕ Coffee Sales Dashboard (Excel)
+# Coffee Sales Dashboard (Excel)
 
 **Type:** Excel Dashboard / Data Analysis | **Data:** 1,000 orders, 1,000 customers, 4 products, Jan 2019 – Aug 2022 | **Tools:** Excel (PivotTables, PivotCharts, Slicers, VLOOKUP/XLOOKUP)
 
