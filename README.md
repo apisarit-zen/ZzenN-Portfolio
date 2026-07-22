@@ -38,7 +38,7 @@ Panel data study (2002–2023, 6 countries) testing whether foreign direct inves
 Interactive sales dashboard built from 3 relational tables (orders, customers, products), with pivot charts and slicers for exploring sales by coffee type, country, and top customers.
 **Skills:** Excel, VLOOKUP/XLOOKUP, PivotTables, slicers, dashboard design
 
-🔗 [View project]
+🔗 [View project](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/CoffeeSalesDashboard.md)
 ---
 
 ## Certifications
