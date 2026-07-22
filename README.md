@@ -1,4 +1,4 @@
-# Hi, I'm Apisarit. Welcome to my portfolio
+# Hi, I'm Apisarit. Welcome to my portfolio 👋
 
 ## About Me
 Final-year Economics student at Chulalongkorn University, graduating in 2026. I'm transitioning into data analytics, combining an economics research background (panel data, econometrics) with hands-on SQL, Excel, and Power BI skills. I enjoy turning raw data into clear, decision-ready insights.
