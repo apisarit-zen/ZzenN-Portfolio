@@ -2,7 +2,7 @@
 
 **Type:** Excel Dashboard / Data Analysis | **Data:** 1,000 orders, 1,000 customers, 4 products, Jan 2019 – Aug 2022 | **Tools:** Excel (PivotTables, PivotCharts, Slicers, VLOOKUP/XLOOKUP)
 
-![Coffee Sales Dashboard](./screenshots/coffee_dashboard.png)
+![Coffee Sales Dashboard](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/Coffee%20Dashboard)
 
 ## 1. Background
 This dashboard analyzes transaction-level sales data for a coffee retailer selling 4 coffee types (Arabica, Excelsa, Liberica, Robusta) across 3 countries. The raw data comes as 3 separate tables — **orders**, **customers**, and **products** — so the project isn't just chart-building; it starts with joining relational data inside Excel before any pivoting happens. The goal is a single-page, filterable dashboard that a manager could use to check sales trends, market performance, and top customers without touching a single formula.
