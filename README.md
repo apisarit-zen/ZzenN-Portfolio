@@ -3,8 +3,8 @@
 ## About Me
 Final-year Economics student at Chulalongkorn University, graduating in 2026. I'm transitioning into data analytics, combining an economics research background (panel data, econometrics) with hands-on SQL, Excel, and Power BI skills. I enjoy turning raw data into clear, decision-ready insights.
 
-📄 **[My CV](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/CV%20Apisarit%20T.pdf)**  📧 **apisarit.tho@gmail.com**
-🔗 **[LinkedIn](https://www.linkedin.com/in/apisarit-thongthapornsuthi-5044892b6/)**
+- 📧 **apisarit.tho@gmail.com**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/apisarit-thongthapornsuthi-5044892b6/)**
 
 ---
 
@@ -41,5 +41,6 @@ Interactive sales dashboard built from 3 relational tables (orders, customers, p
 ---
 
 ## Certifications
-- 📜 [DataCamp — *Associate Data Analysis in SQL*](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/Certificate%20from%20DataCamp%20Associate%20Data%20analyst.pdf)
+- [DataCamp — *Associate Data Analysis in SQL*](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/Certificate%20from%20DataCamp%20Associate%20Data%20analyst.pdf)
+- [DataCamp — *Associate Data Analysis in SQL*](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/Certificate%20from%20DataCamp%20Associate%20Data%20analyst.pdf)
 
