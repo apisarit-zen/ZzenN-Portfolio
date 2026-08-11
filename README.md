@@ -43,4 +43,5 @@ Interactive sales dashboard built from 3 relational tables (orders, customers, p
 ## Certifications
 - [DataCamp — *Associate Data Analysis in SQL*](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/Certificate%20from%20DataCamp%20Associate%20Data%20analyst.pdf)
 - [DataCamp — *SQL Associate*](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/SQL%20Associate%20Certificate.pdf)
+- [SinghaBizCourse16 Bootcamp*](https://github.com/apisarit-zen/ZzenN-Portfolio/blob/main/sbc16_bootcamp_certificate%20for%20%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%AA%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B4%E0%B9%8C%20%20%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4.pdf)
 
